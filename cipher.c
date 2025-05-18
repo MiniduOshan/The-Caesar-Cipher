@@ -1,9 +1,5 @@
-/*
-File_Name: cipher.c
-Index    :2022t01584 
-Name     : B.D.M.O.B.Wanigarathna 
-*/
-
+//Index : 2022t01584 
+//Name  : B.D.M.O.B. Wanigarathna 
 
 #include <stdio.h>
 #include <stdlib.h>
