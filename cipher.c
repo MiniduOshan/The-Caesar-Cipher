@@ -17,7 +17,7 @@ int IsQueueFull(const Queue *q) {
     return q->count == MAXQUEUE;
 }
 
-/ Add an item to the rear
+// Add an item to the rear
 void Append(Queue *q, QueueElement x) {
     if (IsQueueFull(q)) {
         printf("Queue is full.\n");
