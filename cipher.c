@@ -83,7 +83,7 @@ void Encrypt(char *message, int shift, char *output){
         }
         i++;
     }
-    output[i]='\0'; // Null-terminate the output string
+    output[i]='\0'; // Null-terminate
 }
 
 // Decrypts the message by shifting letters to the left
@@ -103,5 +103,5 @@ void Decrypt(char *message, int shift,char *output){
         }
         i++;
     }
-    output[i]='\0'; // Null-terminate the decrypted string
+    output[i]='\0'; // Null-terminate (end string properly)
 }
