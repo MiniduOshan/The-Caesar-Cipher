@@ -48,3 +48,11 @@ Make sure you have GCC installed (e.g., via MinGW).
 ```powershell
 gcc main.c cipher.c -o cipher
 .\cipher
+```
+
+
+### 👥 Contributors
+
+- **B.D.M.O.B. Wanigarathna** – `2022T01584`  
+- **J.A.P.Y.D. Jayawardhana** – `2022T01540`  
+- **C.I. Ruwanwella** – `2022T01572`
